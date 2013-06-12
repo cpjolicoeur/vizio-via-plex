@@ -1,0 +1,16 @@
+<metadata>
+  <name>Plex Player</name>
+  <version>0.1.0</version>
+  <identifier>com.mojotech.apps.tv.plexplayer</identifier>
+  <author name="Craig P Jolicoeur" organization="MojoTech" href="http://mojotech.com" />
+  <copyright>2013</copyright>
+  <description>Plex Media Player client</description>
+  <platform minVersion="5.0" />
+  <security>
+    <filesystem>full</filesystem>
+    <command>true</command>
+    <http>all</http>
+  </security>
+  <image usage="960x540.logo" src="Images/960x540/logo.png" />
+  <!-- <image usage="960x540.icon" src="Images/960x540/icon.png" /> -->
+</metadata>
